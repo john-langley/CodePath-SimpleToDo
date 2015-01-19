@@ -18,3 +18,5 @@ Notes:
 Coming from iOS world, creating a virtual device for testing in Android seems way complicated.
 
 Walkthrough of all user stories:
+
+![Video Walkthrough](SimpleToDoGif.gif)
